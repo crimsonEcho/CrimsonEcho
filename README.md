@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/ef8590eb-2548-43b3-9934-9a15e3ffe2c4/thumbnail" >
+</p>
 <!--
 **crimsonEcho/CrimsonEcho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
