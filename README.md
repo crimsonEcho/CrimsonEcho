@@ -2,7 +2,7 @@
 My name is John, and I'm making things.
 
 
-<p style = "width:100%;">
+<p style="width:100%;">
   <img src="https://api.boot.dev/v1/users/public/ef8590eb-2548-43b3-9934-9a15e3ffe2c4/thumbnail" >
 </p>
 <!--
